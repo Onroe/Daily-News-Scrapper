@@ -3,4 +3,4 @@ A python algorithm to scrape new articles from a the Daily Monitor news website 
 
 
 ### Use
-This project is intended to automate the searching of the latest news articles from a website. It covers the scraping of new news artciles from the daily monitor website and sending text message alerts with the article links.
+This project is intended to automate the searching of the latest news articles from a website. It covers the scraping of new news articles from the daily monitor website and sending text message alerts with the article links.
